@@ -1,0 +1,15 @@
+{
+  "name": "batch22",
+  "version": "1.0.0",
+  "description": "This is our first selenium automation practice projects and it is devloping by JS.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Mehedi",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.54.0"
+  }
+}
